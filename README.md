@@ -1,1 +1,3 @@
 # Web-brute
+## requirments:
+- mechanize
